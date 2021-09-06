@@ -1,8 +1,8 @@
-# Workout Tracker
+# Fitness Tracker
   [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ## Description
-This application gives a user the ability to be able to view, create, and track daily workouts. They will be able to log multiple exercises in a workout on a given day with that days date. The user should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, they should be able to track the distance traveled. A consumer will reach their fitness goals more quickly when they track their workout progress.
+This application gives a user the ability to be able to view, create, and track daily workouts to help them meet their fitness goal. They will be able to log multiple exercises in a workout on a given day with that days date. The user should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, they should be able to track the distance traveled. A consumer will reach their fitness goals more quickly when they track their workout progress.
 
 ## Table of Contents 
 
